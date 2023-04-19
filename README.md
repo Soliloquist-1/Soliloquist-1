@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Soliloquist-1
-- 👩‍💻 I’m an aspring data analyst
-- 👀 I’m a big fan of films
-- 🌱 I’m currently learning JavaScript
+- 👩‍💻 I’m a product manager and data analyst
+- 👀 I’m a big fan of films, console games & podcasts
 - 📫 Reach me by sending me an email mervyn.tmt@gmail.com
 
 <!---
